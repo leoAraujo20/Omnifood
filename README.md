@@ -4,7 +4,7 @@ Este projeto consiste em uma landing page desenvolvida como parte do meu aprendi
 
 ## Acesse o site
 
-[Omnifood no GitHub Pages](https://leoaraujo20.github.io/Omnifood/)
+[Omnifood](https://leoaraujo20.github.io/Omnifood/)
 
 ## Tecnologias utilizadas
 - HTML
